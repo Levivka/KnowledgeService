@@ -1,6 +1,5 @@
 package com.example.charlists.Model.Character;
 
-import com.example.charlists.Model.Character.Equipment.Category.Damage;
 import com.example.charlists.Model.Character.Modifiers.SavingThrows;
 import lombok.Data;
 import org.springframework.data.mongodb.core.mapping.Field;

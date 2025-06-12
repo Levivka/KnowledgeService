@@ -8,7 +8,6 @@ public class Charlists {
     public CharacterSpecifiers specifiers;
     public CharacterStats stats;
     public CharacterModifiers modifiers;
-    public CharacterEquipment equipment;
     public CharacterDescription characterDescription;
     public Skills skills;
 }

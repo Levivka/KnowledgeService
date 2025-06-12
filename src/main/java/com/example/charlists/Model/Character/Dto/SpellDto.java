@@ -1,6 +1,6 @@
 package com.example.charlists.Model.Character.Dto;
 
-import com.example.charlists.Model.Character.Equipment.Category.Damage;
+import com.example.charlists.Model.Character.Damage;
 import com.example.charlists.Model.Character.Modifiers.SavingThrows;
 import lombok.Data;
 
